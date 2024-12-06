@@ -18,7 +18,8 @@ public class palin{
         System.out.println(rev);
         if(temp==rev)
         {
-    System.out.println("palindrome");}
+    System.out.println("palindrome");
+        }
     else{
         System.out.println(" not palindrome");
         }
