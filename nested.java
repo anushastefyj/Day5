@@ -4,9 +4,9 @@ public class nested{
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
-        for(int i=1;i<t;i++)
+        for(int i=0;i<t;i++)
         {
-        for(int j=1;j<t;j++)
+        for(int j=0;j<t;j++)
         {
         System.out.print(j+" ");
         }
@@ -14,3 +14,9 @@ public class nested{
        }
     }
 }
+// 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+//
